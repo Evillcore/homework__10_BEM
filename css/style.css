@@ -830,6 +830,7 @@ h6 {
 }
 
 .news__discription {
+  margin: 15px 0px 0px 0px;
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
